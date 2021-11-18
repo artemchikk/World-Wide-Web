@@ -1,0 +1,42 @@
+
+    body {
+        background-color: #FFFFFF;
+    }
+    .ui.menu .item img.logo {
+        margin-right: 1.5em;
+    }
+    .main.container {
+        margin-top: 7em;
+    }
+    .wireframe {
+        margin-top: 2em;
+    }
+    .ui.footer.segment {
+        margin: 5em 0em 0em;
+        padding: 1.4em 0em;
+    }
+
+    .test {
+        height:42px;
+	    padding:0 0 0 16px;
+	    background:url(images/spacer.png) repeat;
+    }
+    .test li {
+    	display:block;
+    	float:left;
+    }
+
+    .test li.active {
+    	background: #000011;
+    }
+
+    .test a {
+    	color:#FFF;
+	    display:block;
+	    line-height:42px;
+	    text-decoration:none;
+	    padding:0 14px;
+    }
+    .test a:hover {
+	    background:url(images/spacer.png) repeat;
+    }
